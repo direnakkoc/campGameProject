@@ -12,7 +12,7 @@
 
 ## About the Homework
 
-Basicaly, I covered all the requirements were wanted by Engin Demirog.
+Basically, I covered all the requirements that were wanted by Engin Demir in the homework.
 
 
 
