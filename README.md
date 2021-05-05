@@ -1,14 +1,20 @@
-<<<<<<< HEAD
+
 # campGameProject
 
+<p align="center">
+  <a href="https://github.com/direnakkocdemir/campGameProject/blob/main/assets/image.png">
+    <img src="https://github.com/direnakkocdemir/campGameProject/blob/main/assets/image.png" alt="Logo">
+  </a>
 
-=======
-# Java+React Camp
+  <h3 align="center">Java+React Camp Program</h3>
+</p>
+
+<!-- About the Homework-->
+
+## About the Home work
+
+Basicaly, I covered all the requirements were wanted by Engin Demirog.
 
 
-# Requirements were done by Diren.
 
-# 4.day 3rd homework.
-
->>>>>>> ca94bb27eddb2f8ac835fdad6553ae5c6edc1787
  
